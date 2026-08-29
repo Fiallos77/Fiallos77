@@ -1,34 +1,34 @@
-## Hola, soy Carlos 👋
+## Hi, I'm Carlos 👋
 
-Systems and web developer, y analista y coach de futbol. Con base en Brisbane, Australia.
+Systems and web developer, and football analyst and coach. Based in Brisbane, Australia.
 
-Video and Performance Analyst en Gold Coast United FC (NPL femenina) y Head Coach en Tarragindi TFC (U6-U18). Licencia Nacional de Entrenador de la Federacion Ecuatoriana de Futbol (FEF).
+Video and Performance Analyst at Gold Coast United FC (Women's NPL) and Head Coach at Tarragindi TFC (U6-U18). National Coaching License from the Ecuadorian Football Federation (FEF).
 
-Construyo software para el mismo mundo donde trabajo como entrenador y analista, asi que cada proyecto de aqui resuelve un problema real que he vivido de primera mano.
+I build software for the same world I work in as a coach and analyst, so every project here solves a real problem I've lived firsthand.
 
-### Web y producto
+### Web and product
 
-**TeamTestify** — SaaS multi tenant para recolectar y mostrar testimonios de clientes, para negocios de deporte y fitness.
+**TeamTestify** — Multi-tenant SaaS to collect and showcase client testimonials, for sports and fitness businesses.
 Stack: Next.js 16, Convex, Better Auth, Stripe, Gemini.
 Demo: https://teamtestify-three.vercel.app
 
-**Vision X Analysis** — Sitio de la marca de scouting y analisis de video de futbol. Perfiles de jugador, graficos radar en SVG, formulario de contacto.
+**Vision X Analysis** — Website for my football scouting and video analysis brand. Player profiles, SVG radar charts, contact form.
 Stack: Next.js 14, TypeScript, Tailwind, Framer Motion.
 Demo: https://visionxanalysis.com
 
-**Ecuadorian Roots Dance Group** — Sitio web para un grupo de danza folclorica ecuatoriana en Brisbane. Encargo real para cliente real.
+**Ecuadorian Roots Dance Group** — Website for an Ecuadorian folkloric dance group in Brisbane. Real client project.
 Stack: HTML.
 Demo: https://ecuadorianroot.vercel.app
 
-### Datos y analisis
+### Data and analysis
 
-**AnalitykaXG** — Blog de analisis tactico de futbol con reportes en video y datos (redes de pases, mapas de calor, xG).
+**AnalitykaXG** — Football tactical analysis blog with video and data reports (pass networks, heatmaps, xG).
 Stack: Jekyll, Markdown.
 Demo: https://fiallos77.github.io/analitykaXG
 
-**streamlit-euro2024** — App de mapas de tiros de la Eurocopa 2024, filtrable por equipo y jugador, tamano del marcador segun xG.
+**streamlit-euro2024** — Shot map app for Euro 2024, filterable by team and player, marker size scaled by xG.
 Stack: Python, Streamlit, mplsoccer, pandas.
 
-### Contacto
+### Contact
 
 visionxanalysis.com
