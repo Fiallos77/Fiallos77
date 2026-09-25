@@ -1,6 +1,6 @@
 ## Hi, I'm Carlos 👋
 
-Systems and web developer, and football analyst and coach. Based in Brisbane, Australia.
+Systems and web developer, and football analyst and coach. Based in Hobart, Australia.
 
 Video and Performance Analyst at Gold Coast United FC (Women's NPL) and Head Coach at Tarragindi TFC (U6-U18). National Coaching License from the Ecuadorian Football Federation (FEF).
 
@@ -29,6 +29,4 @@ Demo: https://fiallos77.github.io/analitykaXG
 **streamlit-euro2024** — Shot map app for Euro 2024, filterable by team and player, marker size scaled by xG.
 Stack: Python, Streamlit, mplsoccer, pandas.
 
-### Contact
 
-visionxanalysis.com
